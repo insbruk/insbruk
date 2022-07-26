@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Software Engineer
 - 👀 I’m interested in Frontend WEB Development
 - 🌱 I’m currently working with React/Redux/Saga/Material UI stack
-- 💞️ I’m looking to collaborate on intersting projects
-- 📫 You can reach me through email
+- 💞️ I’m looking to collaborate on interesting projects
+- 📫 You can reach me through email for any questions
